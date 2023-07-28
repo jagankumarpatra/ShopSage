@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,43 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* App.css */
+
+
+.number-input-container {
+  margin: 30px;
+}
+
+.number-input-container label {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.number-input {
+  width: 320px;
+  padding: 12px;
+  border: 1px solid #059339;
+  background-color: #31b8cd;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-size: 16px;
+  color: #fff;
+}
+
+.captcha-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+  transition: background-color 0.3s;
+}
+
+.captcha-button:hover {
+  background-color: #45a049;
 }

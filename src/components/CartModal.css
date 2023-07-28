@@ -1,0 +1,115 @@
+
+
+.cart-modal {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f6f6f6;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+}
+
+/* Styling for the cart header */
+.cart-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.cart-header h3 {
+  font-size: 20px;
+}
+
+.cart-header button {
+  background-color: #f44336;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+/* Styling for cart items */
+.cart-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.item-image img {
+  width: 100px;
+  height: 120px;
+  border: #2196f3;
+  
+  /* object-fit: cover; */
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+.item-details {
+  display: flex;
+  
+  flex-direction: column;
+}
+
+.item-details div {
+  margin-bottom: 5px;
+  font-size: 28px;
+  margin-left: 349px;
+}
+
+/* Styling for coupon input and button */
+.coupon {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.coupon input[type="text"] {
+  flex: 1;
+  padding: 8px;
+  border: 3px solid #e40808;
+  border-radius: 4px;
+}
+
+.coupon button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+/* Styling for payment section */
+.payment {
+  display: flex;
+  flex-direction: column;
+}
+
+.payment-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.order-button {
+  background-color: #2196f3;
+  color: #fff;
+  border: none;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+/* Additional styling for discounted total */
+.payment-title.discounted {
+  color: #4caf50;
+}
+
+/* Media query for responsiveness */
+@media screen and (max-width: 480px) {
+  .cart-modal {
+    width: 90%;
+  }
+}
