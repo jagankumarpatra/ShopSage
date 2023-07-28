@@ -31,18 +31,19 @@ Now lets checkout ShopSage
    ![Screenshot (361)](https://github.com/jagankumarpatra/ShopSage/assets/94950001/f646e2c4-3834-4443-801d-340868c7c650)
    
 4. Search Functionality
+   
    Before Search
    ![Screenshot (362)](https://github.com/jagankumarpatra/ShopSage/assets/94950001/9232e4e0-c685-48ac-aa3f-0e2e7d5b7d65)
    After Search
    ![Screenshot (363)](https://github.com/jagankumarpatra/ShopSage/assets/94950001/1eb34638-d848-414a-950d-615ac2b7b1ef)
 
-5. Add To Cart
+6. Add To Cart
    Before Applying Coupon Code
    ![Screenshot (365)](https://github.com/jagankumarpatra/ShopSage/assets/94950001/1ce7dee5-437c-4769-bff7-2a0523d9de96)
    After Applying Coupon Code
    ![Screenshot (366)](https://github.com/jagankumarpatra/ShopSage/assets/94950001/4f6941fd-1656-4a44-a169-cd9555664534)
    
-6. Payment Gateway Page
+7. Payment Gateway Page
    Before Entering Credentials
    ![Screenshot (368)](https://github.com/jagankumarpatra/ShopSage/assets/94950001/86f6916f-82a0-4c90-b883-50d0abac4235)
    After Entering Credentails
@@ -52,20 +53,21 @@ Now lets checkout ShopSage
 
    Now I am checking my mail for more info about the arrival of my order
    
-7. Mailer Page
+8. Mailer Page
     ![Screenshot (371)](https://github.com/jagankumarpatra/ShopSage/assets/94950001/9af9d47a-57ff-46b2-8183-c6b153003760)
    
-8. Checking Cart Status
+9. Checking Cart Status
      Now Of Course Cart is empty :))
    ![Screenshot (372)](https://github.com/jagankumarpatra/ShopSage/assets/94950001/7bd047a4-f6fb-4d63-820e-696dac76aad8)
 
-9. Now Logging Out
+10. Now Logging Out
     Check the button that is present just beside the profile icon
    ![Screenshot (373)](https://github.com/jagankumarpatra/ShopSage/assets/94950001/d6ee187e-e03a-4ad9-aac7-25f59ec5edb4)
    
-10. Thats all the website is.
+11. Now The customer will be redirected to the SignIn Page and in that page if the customer wants to revisit the page then he should click on login page.
 
-Thanks 
+Thanks I Hope U love my project...
+🙂🙂🙂
 
 
 
