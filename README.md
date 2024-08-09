@@ -1,4 +1,4 @@
-1.ShopSage
+1.
 Welcome to ShopSage! This project aims to create a powerful and user-friendly e-commerce website that offers a seamless shopping experience for customers. With a focus on providing a wide range of products and a user-friendly interface, ShopSage is designed to make online shopping easy and enjoyable for both buyers and sellers.
 
 
